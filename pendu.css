@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style:none;
+}
+body{
+    background-color: rgb(87, 156, 177);
+}
+
+.cache{
+    display: none;
+}
+.bleu{
+    background-color: rgb(9, 116, 134);
+}
